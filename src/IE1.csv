@@ -1,0 +1,496 @@
+Name,Team,Position,Element,FP,TP,Kick,Body,Control,Guard,Speed,Stamina,Guts,1st Move,2nd Move,3rd Move,4th Move
+Mark Evans,Raimon,GK,Earth,191,184,72,72,70,77,68,69,79,God Hand,Grenade Shot,Majin The Hand,Triple Defence
+Jack Wallside,Raimon,DF,Earth,206,165,62,68,62,66,49,54,54,The Wall,Super Armadillo,Mole Fake,Mega Quake
+Jim Wraith,Raimon,DF,Wood,195,140,58,53,75,59,53,62,60,Coil Turn,About Face,Afterimage,Shadow Stitch
+Bobby Shearer,Raimon,DF,Wood,202,176,76,61,72,76,60,72,72,Killer Slide,Blade Attack,Back Tornado,Hurricane Arrows
+Tod Ironside,Raimon,DF,Fire,184,161,54,55,53,56,59,56,65,Rodeo Clown,Comet Shot,Monkey Turn,Run Ball Run
+Nathan Swift,Raimon,DF,Wind,169,156,64,58,68,54,76,58,56,Flurry Dash,Quick Draw,Fire Rooster,Clone Faker
+Steve Grim,Raimon,MF,Wind,154,144,62,64,71,64,71,71,71,Rolling Kick,Zigzag Spark,Cyclone,Freeze Shot
+Tim Saunders,Raimon,MF,Wood,156,149,63,76,61,60,55,48,58,Whirlwind Twister,Kung Fu Header,Clone Faker,Clone Shot
+Sam Kincaid,Raimon,MF,Fire,167,136,71,57,56,56,52,56,76,Grenade Shot,Bewildered,Fake Ball,Twin Boost
+Jude Sharp,Raimon,MF,Wind,191,180,63,79,79,79,76,76,68,Spinning Cut,Illusion Ball,Twin Boost,Inazuma Break
+Maxwell Carson,Raimon,FW,Wind,156,160,60,56,78,64,60,56,62,Quick Draw,Spiral Shot,Illusion Ball,Back Tornado
+Kevin Dragonfly,Raimon,FW,Wood,195,144,71,60,59,61,60,64,70,Dragon Crash,Dragon Tornado,Zigzag Spark,Rolling Hell
+Axel Blaze,Raimon,FW,Fire,200,176,79,66,76,64,72,68,60,Fire Tornado,Heat Tackle,Inazuma Drop,Quick Draw
+William Glass,Raimon,FW,Wood,147,168,56,51,68,57,56,53,60,Defence Scan,Attack Scan,Divine Arrows,Rodeo Clown
+Mask,Occult,GK,Wind,165,156,58,56,70,68,56,60,68,Killer Blade,Warp Space,Blade Attack,Whirlwind
+Zombie,Occult,GK,Earth,200,156,47,46,50,40,51,74,56,Sumo Stomp,Doppelganger,Teleport Shot,Horn Train
+Styx,Occult,DF,Wood,140,137,60,53,60,52,63,65,58,Ghost Pull,Teleport Shot,Black Magic,Phantom Shot
+Franky,Occult,DF,Earth,151,156,55,59,47,70,52,61,48,Fireball Knuckle,Rocket Kobushi,Blazing Knuckle,Counter Strike
+Undead,Occult,DF,Fire,187,132,52,58,56,61,56,79,53,Doppelganger,Phantom Shot,Black Magic,Shadow Stitch
+Creepy,Occult,DF,Wind,151,152,52,54,57,57,60,54,63,Doppelganger,Magic,Ghost Pull,Fake Ball
+Jiangshi,Occult,MF,Wind,145,136,55,62,60,52,56,61,62,Ghost Pull,Black Magic,Magic,Warp Space
+Mummy,Occult,MF,Wood,187,137,54,52,60,52,62,75,61,Ghost Pull,Poison Fog,Spider Web,Warp Space
+Grave,Occult,MF,Fire,180,144,57,65,60,52,71,56,55,Black Magic,Shadow Stitch,Phantom Shot,Whirlwind Cut
+Wolfy,Occult,MF,Fire,211,153,61,70,77,52,79,69,67,Magic,Phantom Shot,Moonsault,Wild Claw
+Ghost,Occult,MF,Wood,143,100,55,50,54,44,48,56,54,Ghost Pull,Rolling Hell,Horn Train,Warp Space
+Blood,Occult,MF,Earth,184,152,68,52,52,51,56,62,60,Phantom Shot,Magic,Poison Fog,Rolling Hell
+Dollman,Occult,FW,Wood,129,104,52,53,45,48,49,53,55,Phantom Shot,Black Magic,Doppelganger,Rocket Kobushi
+Noir,Occult,FW,Wood,121,120,52,45,48,52,52,58,45,Black Magic,Psycho Shot,Doppelganger,Death Zone
+Alien,Occult,FW,Wind,149,112,48,51,51,50,48,55,44,Comet Shot,Psycho Shot,Kung Fu Header,Ghost Pull
+Talisman,Occult,FW,Wood,171,165,62,64,56,48,60,62,63,Teleport Shot,Phantom Shot,Freeze Shot,Whirlwind Cut
+Boar,Wild,GK,Fire,217,100,68,44,44,69,60,62,69,Wild Claw,Earthquake,Blazing Knuckle,Super Armadillo
+Bullford,Wild,GK,Fire,171,174,41,68,48,77,31,51,64,Horn Train,Toughness Block,Wild Claw,Sumo Stomp
+Toad,Wild,DF,Wood,167,109,48,52,48,48,54,57,50,Killer Slide,Dash Accelerator,Fake Ball,Rolling Kick
+Fishman,Wild,DF,Wood,167,113,52,64,51,51,51,62,51,Quick Draw,Spinning Cut,Rodeo Clown,Run Ball Run
+Raccoon,Wild,DF,Wood,123,121,53,53,53,44,51,44,47,Super Armadillo,Grenade Shot,Horn Train,About Face
+Lion,Wild,DF,Earth,195,113,78,52,47,64,55,69,68,Super Armadillo,Horn Train,Counter Strike,Run Ball Run
+Monkey,Wild,MF,Wind,184,100,54,64,51,48,53,52,54,Monkey Turn,Tarzan Kick,Coil Turn,Moonsault
+Chameleon,Wild,MF,Wind,176,101,44,45,45,55,53,60,48,Quick Draw,Afterimage,About Face,Teleport Shot
+Mouseman,Wild,MF,Earth,158,112,42,50,52,44,79,54,45,Fake Ball,Bewildered,Teleport Shot,Afterimage
+Koala,Wild,MF,Wood,132,112,52,45,53,51,48,46,49,Tarzan Kick,Monkey Turn,Run Ball Run,Illusion Ball
+Chicken,Wild,MF,Fire,189,101,44,52,56,46,64,67,54,Dash Accelerator,Hawk Shot,Whirlwind Cut,Boost Glider
+Eagle,Wild,MF,Wind,193,148,61,68,62,52,68,71,68,Condor Dive,Hawk Shot,Illusion Ball,Boost Glider
+Panda,Wild,FW,Fire,123,132,52,51,48,52,52,51,46,Killer Slide,Rodeo Clown,Kung Fu Header,Breakthrough
+Cheetah,Wild,FW,Wind,195,133,63,47,69,55,79,42,47,Tarzan Kick,Dash Accelerator,Dynamite Shot,Clone Shot
+Gorilla,Wild,FW,Earth,191,108,78,66,49,64,54,52,67,Tarzan Kick,Super Armadillo,Bewildered,Utter Gutsiness Bat
+Snake,Wild,FW,Wood,184,112,55,63,62,49,55,65,45,Snake Shot,Zigzag Spark,Cross Drive,Spider Web
+Feldt,Brainwashing,GK,Wood,206,177,75,69,68,76,75,78,76,Shot Pocket,Rocket Kobushi,Blazing Knuckle,Defence Scan
+Under,Brainwashing,GK,Wood,121,115,44,40,40,69,48,42,70,Attack Scan,Psycho Shot,Defence Scan,Back Tornado
+Waters,Brainwashing,DF,Wood,151,101,52,48,51,52,45,54,45,Sumo Stomp,Defence Scan,Patriot Shot,The Wall
+Good,Brainwashing,DF,Wood,134,117,44,44,48,55,44,48,45,Defence Scan,Attack Scan,Psycho Shot,Earthquake
+Stronger,Brainwashing,DF,Fire,145,121,44,46,46,52,47,52,52,Defence Scan,Attack Scan,Psycho Shot,Kung Fu Header
+Marvel,Brainwashing,DF,Earth,143,108,44,53,52,48,49,50,51,Defence Scan,Dynamite Shot,Attack Scan,Rolling Hell
+Leading,Brainwashing,DF,Wind,140,112,52,52,44,47,50,52,48,Defence Scan,About Face,Attack Scan,Patriot Shot
+Stiller,Brainwashing,MF,Wind,134,117,53,45,47,52,44,46,53,Attack Scan,Meteor Attack,Quick Draw,Freeze Shot
+Oughtry,Brainwashing,MF,Earth,127,113,55,52,45,45,46,44,48,Psycho Shot,Flurry Dash,Defence Scan,Patriot Shot
+Tell,Brainwashing,MF,Wood,145,109,44,53,48,46,45,44,47,Attack Scan,Psycho Shot,Defence Scan,Shadow Stitch
+Rock,Brainwashing,MF,Fire,149,112,51,46,46,48,48,47,52,Breakthrough,Patriot Shot,Defence Scan,Reflect Buster
+Kind,Brainwashing,MF,Wood,134,109,49,53,48,51,48,53,46,Defence Scan,Psycho Shot,Attack Scan,Twin Boost
+Buster,Brainwashing,MF,Fire,125,113,55,46,52,49,48,50,49,Attack Scan,Dynamite Shot,Defence Scan,Reflect Buster
+Mooney,Brainwashing,FW,Fire,138,101,53,49,54,50,55,53,46,Patriot Shot,Killer Slide,Breakthrough,Utter Gutsiness Bat
+Seller,Brainwashing,FW,Wind,132,113,55,50,50,49,55,45,46,Psycho Shot,Attack Scan,Defence Scan,Fire Tornado
+Turner,Brainwashing,FW,Fire,121,108,48,48,52,52,44,50,45,Patriot Shot,Attack Scan,Fire Tornado,Defence Scan
+Idol,Otaku,GK,Earth,165,161,60,58,54,55,58,45,67,Sliding Goal,Pressure Punch,Toughness Block,Fireball Knuckle
+Eldorado,Otaku,GK,Fire,158,144,49,63,61,69,43,28,49,Spinning Shot,Dragon Crash,Horn Train,Breakthrough
+Train,Otaku,DF,Fire,149,152,61,60,53,56,52,41,54,Fake Ball,Psycho Shot,Zigzag Spark,Utter Gutsiness Bat
+Vox,Otaku,DF,Wind,162,144,48,55,57,51,44,50,47,Fake Ball,Flurry Dash,Defence Scan,Cyclone
+Cosplay,Otaku,DF,Earth,149,152,59,52,56,58,56,40,62,Utter Gutsiness Bat,Fake Ball,Earthquake,Sliding Goal
+Formby,Otaku,DF,Earth,158,137,54,58,61,45,46,48,51,Doppelganger,Toughness Block,Spider Web,Rocket Kobushi
+Net,Otaku,DF,Wood,143,141,44,62,54,48,44,51,49,Defence Scan,Black Magic,Heat Tackle,Cross Drive
+Hero,Otaku,MF,Fire,158,132,62,62,61,55,56,50,71,Fake Ball,Breakthrough,Comet Shot,Dynamite Shot
+Signalman,Otaku,MF,Wind,151,137,54,56,55,52,53,48,59,Bewildered,Coil Turn,Spinning Cut,Patriot Shot
+Robot,Otaku,MF,Wind,167,137,60,60,52,58,54,41,66,Bewildered,Utter Gutsiness Bat,Coil Turn,Wrath Shot
+Novel,Otaku,MF,Wood,154,164,60,55,56,58,61,44,61,Fake Ball,Utter Gutsiness Bat,Dash Accelerator,Bewildered
+Online,Otaku,FW,Wood,158,133,54,56,56,62,55,44,60,Bewildered,Ghost Pull,Defence Scan,Attack Scan
+Custom,Otaku,FW,Wind,171,152,58,62,52,61,54,47,59,Breakthrough,Bewildered,Cyclone,Freeze Shot
+Gamer,Otaku,FW,Fire,173,137,58,60,59,52,55,45,69,Utter Gutsiness Bat,Bewildered,Fake Ball,Shine Drive
+Artist,Otaku,FW,Wind,143,149,52,56,58,63,53,51,64,Bewildered,Utter Gutsiness Bat,Doppelganger,Blade Attack
+Arcade,Otaku,FW,Wood,147,152,57,57,55,56,52,47,60,Comet Shot,Bewildered,Cross Drive,Utter Gutsiness Bat
+Joe King,Royal Academy,GK,Fire,200,153,72,75,69,72,55,74,60,Power Shield,Full Power Shield,Hawk Shot,Spinning Cut
+Bob Carlton,Royal Academy,GK,Wood,147,170,58,55,63,54,45,62,70,Earthquake,Dash Accelerator,Patriot Shot,Run Ball Run
+Peter Drent,Royal Academy,DF,Earth,165,144,71,54,67,64,44,59,62,Illusion Ball,Earthquake,Reflect Buster,Mega Quake
+Ben Simmons,Royal Academy,DF,Wood,191,169,68,63,72,60,69,70,69,Breakthrough,Cyclone,Illusion Ball,Cross Drive
+Gus Martin,Royal Academy,DF,Wood,189,149,76,67,73,67,63,66,63,Killer Slide,Clone Faker,Defence Scan,Attack Scan
+Alan Master,Royal Academy,MF,Wind,165,168,64,64,72,69,64,62,66,Killer Slide,Illusion Ball,Dynamite Shot,Spinning Cut
+John Bloom,Royal Academy,MF,Fire,195,153,61,71,67,70,71,54,62,Killer Slide,Breakthrough,Wrath Shot,Freeze Shot
+Derek Swing,Royal Academy,MF,Wind,171,184,70,56,76,59,69,60,61,Killer Slide,Clone Faker,Freeze Shot,Death Zone
+Herman Waldon,Royal Academy,MF,Wind,189,188,76,64,72,79,70,57,69,Killer Slide,Breakthrough,Death Zone,Cyclone
+Barry Potts,Royal Academy,MF,Wind,171,136,53,52,54,56,52,60,44,Killer Slide,Whirlwind Twister,Super Armadillo,Kung Fu Header
+Cliff Tomlinson,Royal Academy,FW,Wind,149,157,53,60,52,61,54,52,53,Grenade Shot,Killer Slide,Breakthrough,Twin Boost
+Steve Ingham,Royal Academy,FW,Earth,169,133,61,53,57,52,47,54,46,Teleport Shot,Ghost Pull,Hawk Shot,Comet Shot
+Jim Lawrenson,Royal Academy,FW,Wind,167,137,54,57,57,63,53,56,55,Breakthrough,Spiral Shot,Wrath Shot,Hawk Shot
+David Samford,Royal Academy,FW,Wood,193,193,70,60,78,66,66,67,71,Killer Slide,Clone Faker,Emperor Penguin No.2,Divine Arrows
+Daniel Hatch,Royal Academy,FW,Wood,184,133,75,69,68,68,78,61,64,Killer Slide,Wrath Shot,Death Zone,Whirlwind Cut
+Hood,Shuriken,GK,Wood,167,164,53,59,44,64,52,55,62,Whirlwind,Clone Faker,Clone Shot,Warp Space
+Castle,Shuriken,GK,Wind,156,132,53,60,52,68,52,52,52,Coil Turn,Ghost Pull,Power Shield,Whirlwind
+Bandit,Shuriken,DF,Fire,151,149,54,53,57,56,55,58,63,Sumo Stomp,Shadow Stitch,Fake Ball,Mole Fake
+Crackshot,Shuriken,DF,Earth,169,129,62,61,56,60,55,60,63,Shadow Stitch,Clone Faker,Bewildered,Dirt Ball
+Hopper,Shuriken,DF,Earth,145,136,52,58,62,62,55,61,54,Sumo Stomp,Condor Dive,Meteor Attack,Moonsault
+Hillfort,Shuriken,DF,Wind,147,141,55,62,60,53,54,63,61,Afterimage,Spider Web,Shadow Stitch,Clone Shot
+Thunder,Shuriken,DF,Earth,145,153,63,60,63,62,54,57,60,Sumo Stomp,Poison Fog,Shadow Stitch,Spider Web
+Cleats,Shuriken,MF,Wind,176,140,56,61,53,56,69,68,59,Monkey Turn,Dirt Ball,Afterimage,Moonsault
+Spook,Shuriken,MF,Wind,165,132,56,56,52,63,64,55,62,Doppelganger,Afterimage,Spider Web,Shadow Stitch
+Trops,Shuriken,MF,Wood,145,144,58,61,69,55,59,57,54,Hawk Shot,Twin Boost,Harvest,Rolling Hell
+Star,Shuriken,MF,Wind,156,133,53,63,59,56,47,65,60,Clone Faker,Phantom Shot,Doppelganger,Clone Shot
+Hattori,Shuriken,MF,Wood,160,140,60,55,59,44,60,60,56,Afterimage,Clone Shot,Flurry Dash,Shadow Stitch
+Code,Shuriken,MF,Earth,176,152,60,56,60,57,54,68,61,Spider Web,Afterimage,Whirlwind Cut,Hurricane Arrows
+Samurai,Shuriken,FW,Wood,160,176,60,60,60,60,56,60,53,Clone Shot,Quick Draw,Shadow Stitch,Fire Rooster
+Ronin,Shuriken,FW,Wind,171,137,62,56,56,53,60,54,57,Dynamite Shot,Flurry Dash,Clone Shot,Afterimage
+Cloak,Shuriken,FW,Fire,180,180,52,61,61,54,60,68,55,Dirt Ball,Poison Fog,Afterimage,Fire Rooster
+Greeny,Farm,GK,Fire,169,109,50,53,60,73,53,64,77,Wood Chopper,Mistral,Infinite Wall,About Face
+Mower,Farm,GK,Earth,189,164,46,56,41,72,62,61,60,Killer Slide,About Face,Super Armadillo,Kung Fu Header
+Sherman,Farm,DF,Fire,176,116,49,60,62,79,52,70,56,Harvest,Grenade Shot,About Face,Infinite Wall
+Hillvalley,Farm,DF,Earth,187,108,40,56,52,79,63,66,53,Harvest,Rolling Hell,Sumo Stomp,Infinite Wall
+Lively,Farm,DF,Wood,182,116,47,57,44,73,56,63,54,Sumo Stomp,Horn Train,Poison Fog,Harvest
+Hayseed,Farm,DF,Earth,193,128,42,56,52,77,58,68,61,About Face,Kung Fu Header,Whirlwind Twister,Run Ball Run
+Grower,Farm,DF,Earth,187,113,53,53,44,76,61,68,61,Mole Fake,Spinning Cut,About Face,Whirlwind Cut
+Nevis,Farm,DF,Wind,195,120,52,56,51,70,59,64,53,Teleport Shot,Defence Scan,Tarzan Kick,Whirlwind Cut
+Work,Farm,DF,Wood,171,109,44,57,54,70,54,65,60,About Face,Bamboo Pattern,Flurry Dash,Kung Fu Header
+Howells,Farm,DF,Wind,171,117,48,62,54,75,54,60,56,Quick Draw,About Face,Monkey Turn,Cyclone
+Milky,Farm,MF,Earth,178,100,40,54,54,68,56,63,56,Whirlwind Cut,Harvest,Spinning Cut,Killer Blade
+Dawson,Farm,MF,Wind,187,108,57,55,56,75,64,66,76,Mole Fake,Run Ball Run,Coil Turn,Blade Attack
+Spray,Farm,MF,Fire,169,125,71,70,46,72,62,66,71,Kung Fu Header,Whirlwind Cut,Wild Claw,Full Power Shield
+Mother,Farm,MF,Wood,180,116,42,55,63,76,53,60,55,Mole Fake,Shine Drive,Killer Slide,Spinning Cut
+Roast,Farm,MF,Earth,193,104,63,58,52,73,71,61,70,Run Ball Run,Whirlwind Twister,Mole Fake,Shine Drive
+Muffs,Farm,FW,Wood,165,101,56,62,62,74,66,63,72,Shine Drive,Whirlwind Cut,Flurry Dash,About Face
+John Neville,Kirkwood,GK,Fire,127,140,78,62,54,79,48,51,44,Toughness Block,Counter Strike,The Wall,Gigant Wall
+Simon Calier,Kirkwood,GK,Wood,112,168,50,41,46,71,45,48,47,Dash Accelerator,Blade Attack,Moonsault,Run Ball Run
+Malcom Night,Kirkwood,DF,Fire,209,180,63,76,68,78,67,64,70,Dash Accelerator,Wrath Shot,Spinning Cut,Cyclone
+Ricky Clover,Kirkwood,DF,Earth,156,137,53,52,56,52,67,45,54,Coil Turn,Hurricane Arrows,Meteor Attack,Back Tornado
+Alfred Meenan,Kirkwood,DF,Wood,169,149,61,55,55,60,55,53,52,Quick Draw,Hurricane Arrows,Moonsault,Illusion Ball
+Dan Mirthful,Kirkwood,DF,Wood,165,129,59,70,49,65,46,51,52,Spinning Cut,Earthquake,Kung Fu Header,Shine Drive
+Eren Middleton,Kirkwood,DF,Earth,140,112,48,44,55,47,55,54,52,Ghost Pull,Blade Attack,Illusion Ball,Utter Gutsiness Bat
+Peter Wells,Kirkwood,DF,Wind,121,101,55,52,52,46,47,45,48,Killer Slide,Spinning Cut,Cyclone,Back Tornado
+Zachary Moore,Kirkwood,MF,Wood,149,145,52,60,60,52,63,53,58,Hawk Shot,Illusion Ball,Twin Boost,Boost Glider
+Toby Damian,Kirkwood,MF,Wind,173,133,54,56,55,56,57,56,55,Moonsault,Back Tornado,Quick Draw,Spinning Shot
+York Nashmith,Kirkwood,MF,Wood,154,132,52,62,57,61,54,52,56,Boost Glider,Hawk Shot,Monkey Turn,Back Tornado
+Brody Gloom,Kirkwood,MF,Earth,136,125,54,46,48,53,45,52,54,Dash Accelerator,Breakthrough,Ghost Pull,Warp Space
+Victor Talis,Kirkwood,MF,Wood,145,177,55,52,52,46,47,45,48,Whirlwind Twister,Spinning Cut,Dynamite Shot,Hurricane Arrows
+Tyler Murdock,Kirkwood,FW,Earth,167,157,79,64,68,56,60,59,54,Spinning Cut,Back Tornado,Breakthrough,Triangle Z
+Thomas Murdock,Kirkwood,FW,Wind,180,152,68,70,65,60,64,62,61,Moonsault,Back Tornado,Killer Slide,Triangle Z
+Marvin Murdock,Kirkwood,FW,Fire,195,161,68,61,61,66,60,60,61,Triangle Z,Illusion Ball,Grenade Shot,Boost Glider
+Icarus,Zeus,GK,Wind,182,149,71,67,66,79,44,71,64,Hawk Shot,Whirlwind Twister,Spinning Cut,Heaven's Time
+Apollo,Zeus,DF,Wood,136,144,79,79,62,73,53,48,55,Divine Stamp,Shine Drive,Magic,Dash Storm
+Hephestus,Zeus,DF,Fire,171,156,60,64,78,69,70,64,62,Dash Storm,Psycho Shot,Fire Tornado,Fire Rooster
+Ares,Zeus,DF,Earth,138,153,71,79,70,72,56,57,60,Divine Stamp,Ghost Pull,Breakthrough,Rolling Hell
+Dionysus,Zeus,DF,Wind,136,124,62,68,66,79,50,53,64,Mega Quake,Zigzag Spark,Earthquake,Reflect Buster
+Heracles,Zeus,DF,Fire,192,64,63,60,66,79,69,71,65,Sumo Stomp,Earthquake,Breakthrough,Mega Quake
+Chronos,Zeus,DF,Wood,178,169,48,66,62,79,63,61,66,Heaven's Time,Kung Fu Header,Illusion Ball,Dash Accelerator
+Artemis,Zeus,MF,Wind,127,184,62,66,76,67,44,45,58,Heaven's Time,Divine Arrows,Illusion Ball,Doppelganger
+Medusa,Zeus,MF,Earth,173,152,69,78,79,67,63,62,62,Spider Web,Rolling Hell,Freeze Shot,Snake Shot
+Hera,Zeus,MF,Fire,193,165,48,68,60,67,64,70,60,Divine Arrows,Reflect Buster,Killer Slide,Breakthrough
+Hermes,Zeus,MF,Wood,162,180,56,69,69,68,57,62,62,Heaven's Time,Divine Stamp,Cyclone,Whirlwind
+Athena,Zeus,FW,Wood,187,132,60,76,64,63,71,64,77,Dash Storm,Reflect Buster,Defence Scan,Attack Scan
+Demeter,Zeus,FW,Fire,151,149,77,64,79,56,68,63,68,Reflect Buster,Dash Storm,Divine Arrows,Horn Train
+Achilles,Zeus,FW,Earth,191,165,78,69,61,50,65,60,70,Black Magic,Blade Attack,Divine Stamp,Divine Arrows
+Hairtown,Raimon Old Boys,DF,Wind,202,173,70,65,65,62,73,60,71,Spinning Cut,Fire Rooster,Kung Fu Header,Snake Shot
+Steaky,Raimon Old Boys,DF,Earth,193,173,62,75,78,68,68,67,68,Zigzag Spark,Coil Turn,Horn Train,Killer Blade
+MacHines,Raimon Old Boys,DF,Fire,213,173,68,68,75,71,76,68,73,Killer Slide,Breakthrough,About Face,Poison Fog
+Foreman,Raimon Old Boys,MF,Earth,193,149,76,72,64,64,68,72,70,Whirlwind Twister,Dirt Ball,Mole Fake,Boost Glider
+Butler,Raimon Old Boys,MF,Wood,215,184,72,71,69,70,74,69,78,Blade Attack,Defence Scan,Grenade Shot,Clone Faker
+Nathaniel,Raimon Old Boys,MF,Wood,209,172,64,73,73,75,71,66,65,Zigzag Spark,Utter Gutsiness Bat,Blade Attack,Rocket Kobushi
+Suffolk,Raimon Old Boys,MF,Fire,209,172,71,68,70,69,77,68,68,Zigzag Spark,Dynamite Shot,Breakthrough,About Face
+Tailor,Raimon Old Boys,MF,Earth,200,197,73,72,76,76,79,72,70,Magic,Cross Drive,Shot Pocket,Illusion Ball
+Gladstone,Raimon Old Boys,MF,Fire,187,177,68,66,68,60,72,63,69,Cross Drive,Spinning Cut,Twin Boost,Divine Stamp
+Heart,Raimon Old Boys,FW,Wind,209,181,60,62,66,63,72,65,64,Blade Attack,Kung Fu Header,Clone Shot,Wood Chopper
+Poe,Raimon Old Boys,FW,Wood,217,173,64,68,79,70,69,64,69,Blade Attack,Black Magic,Attack Scan,Shadow Stitch
+Barista,Raimon Old Boys,FW,Wind,191,189,62,72,72,76,65,72,65,Phantom Shot,Inazuma Drop,Quick Draw,Divine Arrows
+Builder,Raimon Old Boys,FW,Fire,195,173,69,69,64,60,63,77,64,The Wall,Fire Tornado,Heat Tackle,Fire Rooster
+Yuma,Street Sally's,GK,Earth,129,80,44,44,43,56,49,46,45,Toughness Block,Wood Chopper,Blazing Knuckle,Sumo Stomp
+Holmes,Street Sally's,GK,Wood,81,174,34,28,34,64,39,31,77,Grenade Shot,Dash Accelerator,Freeze Shot,Horn Train
+Daltry,Street Sally's,DF,Wood,114,60,44,45,49,51,49,40,43,Coil Turn,Rodeo Clown,Mistral,Fake Ball
+Lovely,Street Sally's,DF,Wind,138,85,49,44,44,44,44,51,44,Rodeo Clown,Whirlwind Twister,Illusion Ball,Dirt Ball
+Fielding,Street Sally's,DF,Wood,121,81,44,49,48,51,48,44,40,Black Magic,Afterimage,Shadow Stitch,Bamboo Pattern
+Knuckles,Street Sally's,DF,Fire,136,72,60,52,51,41,41,48,49,Sumo Stomp,Horn Train,Earthquake,Mole Fake
+Crumb,Street Sally's,DF,Earth,121,72,40,44,44,43,44,48,45,Quick Draw,Whirlwind Twister,About Face,Dirt Ball
+Stager,Street Sally's,DF,Wood,129,81,40,49,44,51,49,50,51,Teleport Shot,Fake Ball,Utter Gutsiness Bat,Shadow Stitch
+Sheldon,Street Sally's,DF,Earth,127,84,42,48,45,53,42,40,43,Sumo Stomp,Killer Blade,Wood Chopper,Blade Attack
+Squirrel,Street Sally's,MF,Wind,129,137,43,44,50,45,47,45,44,Dash Accelerator,Magic,Killer Slide,Kung Fu Header
+Sandstone,Street Sally's,MF,Fire,125,61,54,58,41,48,45,46,51,Grenade Shot,Dragon Crash,Utter Gutsiness Bat,Breakthrough
+Riversong,Street Sally's,MF,Earth,121,61,40,50,50,48,40,42,47,Grenade Shot,Dash Accelerator,Dynamite Shot,Twin Boost
+Prentice,Street Sally's,FW,Earth,116,73,46,46,56,44,42,48,49,Dynamite Shot,Heat Tackle,Twin Boost,Quick Draw
+Baughan,Street Sally's,FW,Wind,116,68,45,41,46,48,40,51,44,Grenade Shot,Kung Fu Header,Patriot Shot,Zigzag Spark
+Herman Muller,Inazuma KFC,GK,Wind,143,109,40,50,44,47,44,46,45,Pressure Punch,Rocket Kobushi,Fake Ball,Mistral
+Bart Grantham,Inazuma KFC,GK,Wood,101,180,38,35,29,66,28,29,64,Rodeo Clown,Whirlwind Twister,Toughness Block,Gigant Wall
+Izzy Island,Inazuma KFC,DF,Wood,136,65,42,40,48,41,41,48,44,Whirlwind Twister,Attack Scan,Defence Scan,Spider Web
+Robert Silver,Inazuma KFC,DF,Wind,125,73,46,41,51,44,41,48,44,Flurry Dash,Bewildered,Fake Ball,About Face
+Sothern Newman,Inazuma KFC,DF,Earth,127,60,45,44,48,60,43,49,47,The Wall,Super Armadillo,Pressure Punch,Gigant Wall
+Keth Claus,Inazuma KFC,DF,Wind,112,84,41,41,48,40,60,40,46,Dash Accelerator,Wrath Shot,Monkey Turn,About Face
+Irwin Hall,Inazuma KFC,MF,Wood,162,69,40,48,51,43,41,40,41,Rodeo Clown,Bewildered,Shine Drive,About Face
+Mitch Grumble,Inazuma KFC,MF,Wind,110,65,48,48,43,48,40,46,41,Illusion Ball,Zigzag Spark,Teleport Shot,Shadow Stitch
+Taylor Higgins,Inazuma KFC,MF,Wind,134,65,44,43,50,48,40,48,40,Rodeo Clown,Coil Turn,Zigzag Spark,Twin Boost
+Michael Riverside,Inazuma KFC,MF,Earth,138,77,51,46,50,49,40,43,48,Dash Accelerator,Quick Draw,Tarzan Kick,Run Ball Run
+Jamie Cool,Inazuma KFC,MF,Wind,162,76,47,40,44,48,52,52,51,Hawk Shot,Flurry Dash,Quick Draw,Whirlwind Cut
+Karl Blue,Inazuma KFC,MF,Earth,114,76,46,48,47,44,51,46,48,Flurry Dash,Black Magic,Fake Ball,About Face
+Theakston Plank,Inazuma KFC,FW,Wind,121,80,48,50,42,45,58,41,51,Comet Shot,Whirlwind Twister,Spinning Cut,Kung Fu Header
+Hans Randall,Inazuma KFC,FW,Fire,169,65,64,40,40,51,48,56,44,Dash Accelerator,Comet Shot,Zigzag Spark,Dragon Crash
+Ken Cake,Inazuma KFC,FW,Earth,123,88,49,40,40,40,51,49,46,Spiral Shot,Sumo Stomp,Horn Train,Cross Drive
+Ingram,Umbrella,GK,Fire,149,113,44,71,52,74,47,57,78,Tornado Catch,Spinning Shot,Whirlwind,Back Tornado
+Banker,Umbrella,GK,Wind,138,122,50,45,51,63,50,45,75,Spinning Shot,Comet Shot,Phantom Shot,Wrath Shot
+Sefton,Umbrella,DF,Wind,151,109,53,49,61,54,67,54,55,Spinning Cut,Whirlwind Twister,Kung Fu Header,Spider Web
+Caperock,Umbrella,DF,Wind,140,113,54,50,46,45,58,48,53,Killer Slide,Toughness Block,Blade Attack,Utter Gutsiness Bat
+Strike,Umbrella,DF,Fire,132,109,48,50,64,47,56,51,53,Quick Draw,Rolling Kick,Blade Attack,Cross Drive
+Chops,Umbrella,DF,Wood,136,120,62,63,55,44,53,55,49,Coil Turn,Blade Attack,Monkey Turn,Cyclone
+Porter,Umbrella,DF,Earth,145,112,45,56,44,60,44,52,46,Killer Slide,Horn Train,The Wall,Rolling Hell
+Molehill,Umbrella,DF,Wind,123,113,53,48,68,48,55,49,46,Rolling Kick,Flurry Dash,Afterimage,Twin Boost
+Most,Umbrella,DF,Earth,191,165,65,60,60,68,63,61,64,Dash Accelerator,Super Armadillo,Sumo Stomp,Pressure Punch
+Chaney,Umbrella,MF,Wood,136,121,46,48,48,45,66,48,49,Grenade Shot,Dynamite Shot,Utter Gutsiness Bat,Back Tornado
+Rhymes,Umbrella,MF,Wind,140,140,47,48,52,53,46,45,48,Rodeo Clown,Whirlwind Twister,Run Ball Run,Rolling Hell
+Tunk,Umbrella,MF,Fire,145,109,55,53,44,62,55,47,54,Spiral Shot,Black Magic,Breakthrough,Tarzan Kick
+Morefield,Umbrella,MF,Wind,167,129,59,56,58,52,48,52,72,Flurry Dash,Spinning Shot,Dynamite Shot,Freeze Shot
+Scott,Umbrella,MF,Wood,129,109,44,52,47,50,55,52,44,Defence Scan,Magic,Fake Ball,Attack Scan
+Cyborg,Umbrella,FW,Wood,123,165,49,55,63,51,51,56,65,Snake Shot,Attack Scan,Zigzag Spark,Patriot Shot
+Balt Decker,Connection Map,DF,Wind,169,174,56,46,47,60,75,61,67,Quick Draw,Whirlwind Twister,Dynamite Shot,Back Tornado
+Art Pendragon,Connection Map,GK,Wind,132,136,60,65,46,63,63,71,59,Tornado Catch,Shot Pocket,Ghost Pull,Mistral
+Nev Erin,Connection Map,FW,Wind,121,176,60,70,71,61,76,68,71,Dash Accelerator,Coil Turn,Cross Drive,Divine Arrows
+Christian Dear,Connection Map,DF,Wood,118,100,59,64,76,64,44,52,55,Rolling Kick,Spinning Cut,About Face,Whirlwind Cut
+Jeeves Dropper,Connection Map,MF,Wind,96,142,45,61,58,53,68,60,54,Flurry Dash,Monkey Turn,Poison Fog,Moonsault
+Iggy Loyaller,Connection Map,FW,Wood,83,158,61,62,53,62,34,64,53,Dash Accelerator,Spinning Shot,Cross Drive,Blade Attack
+Spike Needle,Connection Map,GK,Wind,151,130,42,32,39,60,71,59,54,Killer Blade,Power Shield,Coil Turn,Full Power Shield
+Chaz Biggins,Connection Map,FW,Earth,176,98,63,61,28,63,57,64,56,Sumo Stomp,Dynamite Shot,Dirt Ball,Rolling Hell
+Macky Valley,Connection Map,FW,Wind,116,108,58,59,45,44,47,52,78,Flurry Dash,Grenade Shot,Cross Drive,Divine Arrows
+Percy Coldstair,Connection Map,DF,Wood,107,156,42,59,56,52,65,64,63,Attack Scan,Defence Scan,Breakthrough,Clone Faker
+Hank Halberd,Connection Map,GK,Wood,195,156,66,62,61,61,37,62,55,Killer Blade,Teleport Shot,Killer Slide,Whirlwind
+Don Keys,Connection Map,FW,Fire,129,150,45,36,32,53,64,55,56,Teleport Shot,Psycho Shot,Illusion Ball,Shine Drive
+Berty Adman,Connection Map,GK,Earth,129,136,52,52,56,59,71,64,55,Fireball Knuckle,Toughness Block,Rocket Kobushi,Mistral
+Joe Straiter,Connection Map,GK,Fire,171,132,56,53,52,71,58,58,59,Pressure Punch,Quick Draw,Whirlwind,Full Power Shield
+Rocky Shears,Connection Map,GK,Earth,167,158,58,58,60,79,63,60,60,Rocket Kobushi,Wood Chopper,Bamboo Pattern,Counter Strike
+Sham Spike,Connection Map,MF,Earth,156,140,64,58,52,56,55,58,58,Bewildered,Horn Train,Illusion Ball,Mole Fake
+Colin Salts,Connection Map,FW,Wood,132,110,63,44,46,41,44,48,41,Snake Shot,Wrath Shot,Spider Web,Clone Shot
+Tony Hacker,Connection Map,MF,Wood,79,168,52,60,67,69,76,75,64,Black Magic,Defence Scan,Shadow Stitch,Clone Shot
+Andrew Meikle,Connection Map,GK,Fire,165,168,48,56,61,48,63,53,62,Fireball Knuckle,Pressure Punch,The Wall,Gigant Wall
+Arthur Dox,Connection Map,FW,Earth,81,144,60,67,40,66,60,68,55,Spiral Shot,Quick Draw,Meteor Attack,Rolling Hell
+Len Scapp,Connection Map,GK,Earth,127,150,41,36,33,56,74,56,63,Pressure Punch,Power Shield,Spinning Cut,Wood Chopper
+Penfold Pulper,Connection Map,FW,Wind,99,158,41,52,59,59,71,64,62,Grenade Shot,Tarzan Kick,Zigzag Spark,Run Ball Run
+Carl Gnu,Connection Map,FW,Wood,77,152,42,55,53,62,71,72,54,Dynamite Shot,Dash Accelerator,Kung Fu Header,Shine Drive
+Scean Spector,Connection Map,DF,Wind,138,154,47,30,28,56,62,56,60,Doppelganger,Black Magic,Ghost Pull,About Face
+Bo Ling,Connection Map,DF,Wood,147,146,45,55,79,50,56,57,52,Killer Slide,Zigzag Spark,Cyclone,Whirlwind Cut
+Troy Trucker,Connection Map,FW,Wind,77,156,66,53,63,58,60,79,52,Coil Turn,Meteor Attack,Kung Fu Header,Whirlwind Cut
+Drew Straitedge,Connection Map,GK,Earth,118,124,49,46,44,44,46,42,47,Pressure Punch,Monkey Turn,Wood Chopper,Whirlwind
+Bos Horne,Connection Map,DF,Earth,85,146,61,61,54,56,59,68,55,Doppelganger,Bewildered,Heat Tackle,Bamboo Pattern
+Pete Grimes,Connection Map,GK,Fire,158,176,44,53,60,41,52,62,52,Pressure Punch,Toughness Block,Coil Turn,Full Power Shield
+Homer Pidgeon,Connection Map,DF,Fire,213,130,60,60,56,52,60,77,56,Coil Turn,Monkey Turn,Cross Drive,Harvest
+Kit Chapman,Connection Map,FW,Fire,125,153,69,59,57,54,53,62,61,Grenade Shot,Utter Gutsiness Bat,Whirlwind Twister,Back Tornado
+Joe Nalist,Connection Map,GK,Wood,191,142,63,53,55,68,38,68,58,Killer Blade,Shot Pocket,Spider Web,Poison Fog
+Davy Johns,Connection Map,FW,Wind,88,118,68,51,41,60,71,56,40,Comet Shot,Meteor Attack,Earthquake,Dirt Ball
+Phil Anthropic,Connection Map,FW,Earth,136,124,77,77,78,78,68,43,75,Teleport Shot,Ghost Pull,Black Magic,Dirt Ball
+Florian Hutter,Connection Map,MF,Fire,165,196,55,54,52,56,59,62,57,Rodeo Clown,Bewildered,Dynamite Shot,Illusion Ball
+Peter Malus,Connection Map,MF,Earth,125,133,63,63,56,53,60,61,53,Rodeo Clown,Bewildered,Breakthrough,Dirt Ball
+Dom Ittory,Connection Map,GK,Earth,160,132,51,52,60,44,62,62,52,Toughness Block,Coil Turn,Rocket Kobushi,Counter Strike
+Sol Crater,Connection Map,FW,Fire,171,138,53,52,52,56,52,57,56,Spinning Shot,Tarzan Kick,Mole Fake,Dirt Ball
+Dex Territy,Connection Map,GK,Earth,167,154,60,52,58,52,59,56,56,Killer Blade,Toughness Block,Wood Chopper,Shadow Stitch
+Ramsey Faroe,Connection Map,GK,Fire,217,82,37,77,32,71,30,79,34,Phantom Shot,Spider Web,Poison Fog,God Hand
+Tim Piece,Connection Map,FW,Wind,156,144,47,61,54,60,66,60,62,Comet Shot,Quick Draw,Run Ball Run,Attack Scan
+Hike Basher,Connection Map,FW,Wood,149,152,60,60,54,56,61,54,63,Rolling Kick,Teleport Shot,Psycho Shot,Death Zone
+Madison Cabinet,Connection Map,GK,Fire,167,172,40,52,61,42,60,63,57,Grenade Shot,Patriot Shot,Illusion Ball,Blazing Knuckle
+Viv Grey,Connection Map,DF,Fire,140,198,55,57,42,44,47,61,56,Comet Shot,Tiro del condor,Illusion Ball,Psycho Shot
+Dan Drobium,Connection Map,FW,Wood,156,150,52,60,62,53,56,62,57,Phantom Shot,Doppelganger,Psycho Shot,Poison Fog
+Walter Mendip,Connection Map,FW,Wind,116,102,61,62,40,51,42,54,59,Snake Shot,Bewildered,Dirt Ball,Reflect Buster
+Cal Cooler,Connection Map,FW,Wood,191,152,68,56,61,60,55,69,57,Grenade Shot,Freeze Shot,Rodeo Clown,Cyclone
+Shirley Ladyman,Connection Map,DF,Wood,167,150,51,31,30,53,68,60,62,Coil Turn,Whirlwind Twister,Cyclone,Whirlwind Cut
+Callan Trens,Connection Map,FW,Fire,121,153,62,61,57,65,55,52,57,Spiral Shot,Whirlwind Twister,Twin Boost,Whirlwind Cut
+Grant Slammer,Connection Map,FW,Wind,149,152,48,57,63,43,57,54,58,Spiral Shot,Psycho Shot,Clone Shot,Afterimage
+Pascal Richter,Connection Map,MF,Earth,167,138,51,60,62,45,52,60,57,Horn Train,Zigzag Spark,Mole Fake,Cyclone
+Florian Selles,Connection Map,FW,Wood,158,150,52,60,59,63,59,52,52,Rolling Kick,Phantom Shot,Dash Accelerator,Dash Storm
+Oscar Esher,Connection Map,GK,Wind,81,94,35,31,28,36,38,32,32,Rodeo Clown,Sumo Stomp,Toughness Block,Gigant Wall
+Perry Pincher,Connection Map,FW,Earth,162,140,58,56,55,52,59,63,61,Spiral Shot,Kung Fu Header,Zigzag Spark,rande turbine
+Bill Phee,Connection Map,GK,Wood,99,130,70,52,52,60,60,69,60,Fireball Knuckle,Blade Attack,Blazing Knuckle,Hurricane Arrows
+Sonny Rentman,Connection Map,FW,Earth,118,178,56,71,60,69,62,63,57,Spinning Shot,Grenade Shot,Spinning Cut,Shine Drive
+Rod Entwhistle,Connection Map,GK,Wind,107,136,66,58,56,68,39,79,60,Killer Blade,Coil Turn,Rocket Kobushi,Cyclone
+Alec Dote,Connection Map,GK,Wind,149,198,41,55,64,40,60,58,60,Shadow Stitch,Phantom Shot,Freeze Shot,Bamboo Pattern
+Pay Chance,Connection Map,GK,Fire,173,141,59,56,53,59,60,56,56,Fireball Knuckle,Toughness Block,Whirlwind,Blazing Knuckle
+John Corder,Connection Map,FW,Fire,145,132,56,63,62,61,62,56,52,Comet Shot,Bewildered,Heat Tackle,Patriot Shot
+Carey Ginu,Connection Map,FW,Wood,88,132,40,52,60,62,78,55,60,Sumo Stomp,Bewildered,Utter Gutsiness Bat,Ghost Pull
+Jack Trumper,Connection Map,FW,Wind,171,174,40,58,68,44,57,57,52,Spinning Shot,Teleport Shot,Cross Drive,Divine Arrows
+Colin Lection,Connection Map,DF,Fire,158,154,56,57,52,60,52,62,52,Killer Slide,Fake Ball,Heat Tackle,Cyclone
+Conor Abley,Connection Map,GK,Fire,94,148,64,58,62,67,38,78,62,Pressure Punch,Wild Claw,Harvest,Blazing Knuckle
+Rick Hatter,Connection Map,FW,Fire,191,156,60,61,64,65,64,62,64,Grenade Shot,Dynamite Shot,Patriot Shot,Divine Arrows
+Percy Stent,Connection Map,GK,Fire,151,173,76,63,60,62,68,69,67,Power Shield,The Wall,Wood Chopper,Whirlwind
+Luke Raffles,Connection Map,MF,Wood,107,154,62,59,56,52,63,68,60,Quick Draw,Tarzan Kick,Breakthrough,About Face
+Trey Spotter,Connection Map,MF,Wind,149,132,47,54,61,51,51,44,52,Magic,Run Ball Run,Horn Train,Illusion Ball
+Hollis Ticure,Connection Map,FW,Fire,193,138,58,60,53,59,52,69,52,Sumo Stomp,Grenade Shot,Meteor Attack,Mole Fake
+Dash Dotter,Connection Map,MF,Wind,96,142,51,52,61,52,65,62,58,Whirlwind Twister,Zigzag Spark,Illusion Ball,Dash Storm
+Guy Dance,Connection Map,MF,Earth,81,144,42,58,63,62,60,67,55,Dash Accelerator,Bewildered,Defence Scan,Dirt Ball
+Brendan Branch,Connection Map,GK,Earth,79,142,44,58,60,61,68,56,55,Comet Shot,Pressure Punch,Quick Draw,Shot Pocket
+Slim Lanky,Connection Map,GK,Wind,118,142,44,36,35,58,66,55,63,Killer Blade,Wood Chopper,Cyclone,Blazing Knuckle
+Bob Whittle,Connection Map,FW,Wind,140,164,60,68,70,64,70,64,62,Comet Shot,Kung Fu Header,Back Tornado,Divine Arrows
+Ringo Stagg,Connection Map,DF,Wind,140,165,60,65,57,67,56,56,63,Coil Turn,Zigzag Spark,Afterimage,Harvest
+Sam O'Reilly,Connection Map,MF,Fire,118,104,63,54,44,44,41,55,56,Whirlwind Twister,Whirlwind Cut,Clone Shot,Blade Attack
+Theo Broma,Connection Map,DF,Fire,140,128,52,54,49,49,41,55,53,Rolling Kick,Spinning Cut,About Face,Kung Fu Header
+Gwyn Penn,Connection Map,GK,Wind,165,176,49,57,71,43,58,53,61,Killer Blade,Wood Chopper,Mistral,Freeze Shot
+Thor Toise,Connection Map,MF,Earth,118,110,52,54,48,41,50,59,53,Sumo Stomp,Horn Train,Earthquake,Mega Quake
+Nick Yergrub,Connection Map,FW,Wind,99,152,62,70,48,76,52,76,62,Spinning Shot,Rodeo Clown,Condor Dive,Utter Gutsiness Bat
+Don Snow,Connection Map,GK,Fire,200,130,60,58,60,64,35,64,61,Pressure Punch,Toughness Block,Dash Accelerator,Mistral
+Walter Card,Connection Map,FW,Earth,79,186,32,30,79,33,39,36,35,Sumo Stomp,Black Magic,About Face,Dirt Ball
+Sonny Welkin,Connection Map,MF,Fire,167,144,68,62,54,60,35,68,54,Sumo Stomp,Horn Train,Super Armadillo,Boost Glider
+Joe Lamkin,Connection Map,MF,Wood,162,152,52,60,56,53,62,58,56,Rodeo Clown,Snake Shot,Magic,Spider Web
+Bud Hunter,Connection Map,GK,Wood,134,132,47,56,59,52,63,64,56,Killer Blade,Blade Attack,Magic,Illusion Ball
+Crane Clawson,Connection Map,MF,Wind,145,157,60,64,60,68,56,52,61,Bewildered,Breakthrough,Poison Fog,Utter Gutsiness Bat
+Ernest Byer,Connection Map,FW,Fire,211,178,56,57,52,57,61,78,61,Fire Tornado,Utter Gutsiness Bat,Poison Fog,Spider Web
+Thomas Cott,Connection Map,GK,Wind,147,150,53,59,53,56,63,59,56,Tornado Catch,Doppelganger,Whirlwind,Shadow Stitch
+Bo Luger,Connection Map,FW,Wood,158,148,78,56,54,56,54,58,61,Rodeo Clown,Illusion Ball,Dirt Ball,Run Ball Run
+Rory Polisher,Connection Map,GK,Fire,173,142,47,59,61,43,58,61,62,Fireball Knuckle,Power Shield,Mole Fake,Full Power Shield
+Willow Withers,Connection Map,MF,Wood,90,152,42,56,59,55,60,62,76,Flurry Dash,Quick Draw,Comet Shot,Zigzag Spark
+Stu Perstitious (Lucky),Connection Map,DF,Fire,147,170,40,56,69,40,63,53,53,Spinning Shot,Spinning Cut,Moonsault,Harvest
+Hal Leeward,Connection Map,MF,Wood,160,138,55,71,75,56,58,63,56,Magic,Breakthrough,Ghost Pull,Fake Ball
+Den Taligene,Connection Map,MF,Fire,129,122,72,49,50,48,50,40,70,Bewildered,Attack Scan,Defence Scan,Poison Fog
+Isaiah Shutt,Connection Map,FW,Earth,107,134,64,68,54,60,52,56,52,Spinning Cut,Cross Drive,Bewildered,Back Tornado
+Sandy Hope,Connection Map,DF,Earth,83,134,68,58,52,70,32,60,63,Coil Turn,Dash Accelerator,Cyclone,Whirlwind Cut
+Gill O'Mend,Connection Map,MF,Fire,160,142,56,60,56,55,57,52,57,Rodeo Clown,Horn Train,Harvest,Shine Drive
+Tim Mittus,Connection Map,DF,Earth,110,129,68,56,62,56,53,65,60,Killer Slide,Breakthrough,About Face,Twin Boost
+Vince Bull,Connection Map,MF,Wind,112,133,55,56,52,60,64,64,57,Phantom Shot,Black Magic,Ghost Pull,Psycho Shot
+Ches Nutcracracker (Gnashers),Connection Map,GK,Fire,88,92,71,71,69,71,78,28,70,Wild Claw,Horn Train,Blazing Knuckle,Whirlwind
+Cody Barani,Connection Map,GK,Earth,140,132,47,35,32,61,68,61,52,Tornado Catch,Killer Slide,Whirlwind,Harvest
+John Demi,Connection Map,DF,Earth,167,148,59,62,60,71,62,60,57,Spinning Cut,Spinning Shot,Clone Faker,Clone Shot
+Bud Dahman,Connection Map,FW,Wood,118,100,54,56,51,48,43,59,54,Teleport Shot,Doppelganger,Psycho Shot,Divine Arrows
+Les Tarrant,Connection Map,GK,Wind,123,118,52,63,40,44,47,53,56,Killer Blade,Wood Chopper,Bamboo Pattern,Blazing Knuckle
+Buck Teachey,Connection Map,DF,Earth,134,164,54,60,54,60,60,52,56,Quick Draw,Zigzag Spark,Bamboo Pattern,Rolling Hell
+Monty Burrows,Connection Map,GK,Earth,114,136,29,32,65,38,60,57,64,Killer Blade,Wood Chopper,Mistral,Spinning Cut
+Ryder Wheeling,Connection Map,DF,Earth,121,101,60,55,49,44,48,56,49,Quick Draw,Spider Web,Bamboo Pattern,Hawk Shot
+Wes Abbey,Connection Map,FW,Wood,167,158,68,64,64,61,62,66,60,Dirt Ball,Mole Fake,The Wall,Mega Quake
+Benedict Eggers,Connection Map,DF,Wood,101,148,64,60,58,71,36,65,62,Sumo Stomp,Bewildered,Earthquake,Dirt Ball
+Nick Savers,Connection Map,GK,Wind,134,170,71,70,68,72,40,76,65,Tornado Catch,Whirlwind,Mistral,Back Tornado
+Sly Winker,Connection Map,DF,Wind,125,156,48,34,28,62,72,52,52,Quick Draw,Flurry Dash,Comet Shot,Bamboo Pattern
+Manny Carbs,Connection Map,DF,Earth,151,140,50,55,68,42,53,59,54,Horn Train,Mole Fake,Earthquake,Harvest
+Jonny Strutt,Connection Map,FW,Wood,140,120,40,48,53,55,57,47,46,Wrath Shot,Illusion Ball,Twin Boost,Blade Attack
+Arthur Myrddin,Connection Map,DF,Fire,158,140,60,58,63,61,55,60,54,Killer Slide,Breakthrough,Heat Tackle,Shine Drive
+Aaron Peacy,Connection Map,GK,Earth,77,156,42,54,56,59,71,52,52,Defence Scan,Shot Pocket,Counter Strike,Shadow Stitch
+Hank Shortman,Connection Map,MF,Wind,165,152,47,52,74,43,52,61,52,Whirlwind Twister,Hawk Shot,Clone Faker,Clone Shot
+Dylan Swan,Connection Map,FW,Earth,134,128,44,40,40,43,49,41,47,Grenade Shot,Dynamite Shot,Meteor Attack,Patriot Shot
+Andy Sided,Connection Map,DF,Earth,134,157,63,66,60,67,59,59,52,Dash Accelerator,Zigzag Spark,Illusion Ball,Moonsault
+Michael Angeloni,Connection Map,GK,Wind,156,158,40,60,74,46,60,56,61,Fireball Knuckle,Rocket Kobushi,Full Power Shield,Dirt Ball
+Teagen Brewer,Connection Map,DF,Wood,147,132,47,42,40,60,67,57,56,Killer Slide,The Wall,Harvest,Sumo Stomp
+Seymor Senary,Connection Map,FW,Fire,83,144,45,55,52,56,71,62,59,Clone Shot,Clone Faker,Phantom Shot,Ghost Pull
+Armstrong Peck,Connection Map,GK,Fire,114,108,53,48,54,57,42,54,57,Pressure Punch,Whirlwind Twister,Blazing Knuckle,Poison Fog
+Colin Eager,Connection Map,FW,Earth,121,115,52,60,45,49,48,52,56,Snake Shot,Tarzan Kick,Back Tornado,Blade Attack
+Lon Grainger,Connection Map,GK,Fire,213,146,60,52,55,52,63,72,60,Power Shield,Wood Chopper,Full Power Shield,Spinning Cut
+Tom Felix,Connection Map,MF,Wind,143,150,54,60,71,63,71,61,59,Dash Accelerator,Clone Faker,Tarzan Kick,Breakthrough
+Fred Makepeace,Connection Map,DF,Wood,88,115,40,63,29,76,42,55,40,Killer Slide,Spinning Cut,Zigzag Spark,Afterimage
+Hunter Glory,Connection Map,MF,Wood,138,176,62,70,63,71,56,55,60,Black Magic,Ghost Pull,Attack Scan,Kung Fu Header
+Shay Chez,Connection Map,MF,Earth,134,156,56,66,59,61,63,52,63,Super Armadillo,Heat Tackle,Grenade Shot,Patriot Shot
+Preston Gumbs,Connection Map,FW,Wind,129,101,61,62,55,45,48,63,63,Rolling Kick,Wrath Shot,Whirlwind Twister,Boost Glider
+Buster Clout,Connection Map,DF,Fire,112,156,60,62,63,69,59,56,63,Dynamite Shot,Patriot Shot,Sumo Stomp,The Wall
+Sam Firman,Connection Map,GK,Fire,90,144,60,54,60,57,52,67,52,Killer Blade,Wood Chopper,Whirlwind,Cyclone
+Cruz Ligner,Connection Map,MF,Earth,169,152,59,53,52,60,62,59,58,Spinning Shot,Dash Accelerator,Spinning Cut,Moonsault
+Olly Popman,Connection Map,MF,Wind,83,158,67,63,61,58,53,60,62,Sumo Stomp,Dash Accelerator,Bewildered,Earthquake
+Shemmy Ramis,Connection Map,MF,Earth,173,130,60,60,60,60,62,63,56,Coil Turn,Whirlwind Twister,Magic,Whirlwind Cut
+Rab Acus,Connection Map,FW,Wind,77,196,48,63,53,52,64,57,58,Rolling Kick,Tarzan Kick,Attack Scan,Defence Scan
+Ryder Waverly,Connection Map,MF,Fire,125,146,49,39,33,62,60,62,56,Grenade Shot,Kung Fu Header,Afterimage,Breakthrough
+Adam Nesiac,Connection Map,DF,Earth,158,78,68,70,55,76,52,61,55,Ghost Pull,Dash Accelerator,Spinning Cut,About Face
+Tosh Coach,Connection Map,DF,Earth,99,96,34,70,39,78,37,32,32,Coil Turn,Doppelganger,Black Magic,The Wall
+Max Bright,Connection Map,MF,Wind,147,133,50,44,41,55,67,52,58,Whirlwind Twister,Magic,Phantom Shot,Shine Drive
+Harry Harper,Connection Map,GK,Wind,103,132,43,52,60,60,60,56,52,Killer Blade,Wood Chopper,Mistral,Dynamite Shot
+Moses Pumper,Connection Map,FW,Fire,85,138,63,67,46,70,60,68,54,Ghost Pull,Black Magic,Psycho Shot,Mole Fake
+Phil O'Biblist,Connection Map,MF,Fire,160,142,65,58,60,67,30,52,61,Black Magic,Ghost Pull,Kung Fu Header,Run Ball Run
+Onslow Ball,Connection Map,DF,Wood,85,146,58,69,47,70,61,63,60,Sumo Stomp,Dynamite Shot,Rodeo Clown,Fake Ball
+Django Keyes,Connection Map,GK,Wind,85,198,43,76,46,76,42,38,41,Pressure Punch,Shot Pocket,Spider Web,Counter Strike
+Cory Andish,Connection Map,FW,Wood,134,136,59,70,47,69,62,62,57,Rodeo Clown,Monkey Turn,Run Ball Run,Back Tornado
+Winston Windfall,Connection Map,MF,Wood,140,129,50,48,40,62,68,58,53,Super Armadillo,Heat Tackle,Shine Drive,Harvest
+Trey Dalbum,Connection Map,FW,Wood,112,126,52,54,41,49,45,62,60,Illusion Ball,Freeze Shot,Back Tornado,Rodeo Clown
+Mark Tinney,Connection Map,MF,Earth,149,136,60,58,56,53,52,53,60,Whirlwind Twister,Coil Turn,Whirlwind Cut,Cyclone
+Chaz Anover,Connection Map,MF,Wood,151,158,53,62,53,61,58,56,53,Whirlwind Twister,Illusion Ball,Coil Turn,Cyclone
+Theo Riser,Connection Map,MF,Fire,140,126,42,60,60,64,43,44,48,Whirlwind Twister,Spinning Cut,Whirlwind Cut,Hurricane Arrows
+Rob Zervatory,Connection Map,FW,Wood,173,154,68,52,58,57,62,63,52,Killer Slide,Meteor Attack,Dash Accelerator,Shine Drive
+Rob Ottman,Connection Map,GK,Wind,121,108,58,52,55,48,54,54,58,Pressure Punch,Whirlwind Twister,Wood Chopper,Blazing Knuckle
+Glen Garry,Connection Map,MF,Wind,118,126,48,51,44,44,51,48,40,Bewildered,Illusion Ball,Moonsault,Bamboo Pattern
+Gauge Diven,Connection Map,DF,Fire,118,186,54,61,59,61,57,55,55,Killer Slide,Zigzag Spark,Cyclone,Whirlwind Cut
+Al Mannack,Connection Map,DF,Earth,103,156,40,56,63,63,63,60,55,Zigzag Spark,Twin Boost,Hurricane Arrows,Divine Arrows
+Pica Vellosum,Connection Map,FW,Earth,145,132,59,56,56,56,52,60,63,Ghost Pull,Psycho Shot,Clone Shot,Clone Faker
+Bramley Cox,Connection Map,FW,Wind,158,158,64,62,54,71,61,52,60,Black Magic,Ghost Pull,Teleport Shot,Psycho Shot
+Rufus Judge,Connection Map,FW,Fire,165,134,52,58,52,61,52,52,63,Killer Slide,Condor Dive,Clone Shot,Clone Faker
+Adam Icklock,Connection Map,GK,Fire,138,128,45,44,42,48,42,42,44,Fireball Knuckle,Toughness Block,Rodeo Clown,Mistral
+Creed Wrighter,Connection Map,FW,Wood,165,180,55,56,58,53,56,60,53,Rodeo Clown,Phantom Shot,Run Ball Run,Psycho Shot
+Barry Strerr,Connection Map,MF,Wind,169,138,41,63,61,48,53,62,61,Dash Accelerator,Doppelganger,Harvest,Dash Storm
+Finn Carper,Connection Map,GK,Earth,129,112,62,52,49,60,42,63,57,Wild Claw,Horn Train,Breakthrough,Counter Strike
+Guy Forker,Connection Map,DF,Fire,129,88,50,50,44,51,48,44,46,Sumo Stomp,Doppelganger,The Wall,Dirt Ball
+Toby Patient,Connection Map,DF,Wood,195,152,44,57,55,60,71,32,58,Sumo Stomp,Earthquake,Mole Fake,Dirt Ball
+Dec Orum,Connection Map,FW,Wood,209,140,70,56,63,56,63,74,60,Ghost Pull,Teleport Shot,Psycho Shot,Illusion Ball
+Bill Looney,Connection Map,DF,Wood,114,172,52,61,72,63,61,53,52,The Wall,Earthquake,Megacolpo,Sumo Stomp
+Pete Sadow,Connection Map,MF,Fire,103,146,40,62,52,61,76,72,60,Dash Accelerator,Breakthrough,Heat Tackle,Fire Tornado
+Benny Factor,Connection Map,GK,Fire,154,142,56,61,54,56,58,63,58,Killer Blade,Wood Chopper,Full Power Shield,Bamboo Pattern
+Cole Easteroll,Connection Map,FW,Wood,123,106,40,51,48,42,45,49,40,Tarzan Kick,Back Tornado,Illusion Ball,Clone Shot
+Clark Roach,Connection Map,MF,Earth,85,144,66,54,57,60,36,63,56,Whirlwind Twister,Heat Tackle,Twin Boost,Back Tornado
+Connor Bation,Connection Map,FW,Wood,140,124,55,59,45,41,44,56,61,Grenade Shot,Freeze Shot,Fire Tornado,Back Tornado
+Kevin Boardman,Connection Map,GK,Wind,145,130,41,60,75,42,56,61,62,Pressure Punch,Spinning Cut,Whirlwind Twister,Gigant Wall
+Simon Stryker,Connection Map,GK,Wood,151,160,45,60,61,46,56,59,60,Pressure Punch,Horn Train,Harvest,Gigant Wall
+Rory Circles,Connection Map,MF,Earth,116,132,45,37,36,55,62,63,63,Bewildered,Poison Fog,Dash Storm,Sumo Stomp
+Nick Turine,Connection Map,DF,Wood,127,141,70,62,59,63,44,64,53,Sumo Stomp,The Wall,Earthquake,Mega Quake
+Jacob Grimley,Connection Map,FW,Wind,138,194,69,58,44,51,44,62,62,Spinning Shot,Grenade Shot,Hawk Shot,Back Tornado
+Tim Crochett,Connection Map,DF,Wind,125,186,52,62,57,70,62,62,53,Fake Ball,About Face,Bamboo Pattern,Clone Shot
+Will Bayeux,Connection Map,GK,Earth,151,136,61,57,55,62,58,55,52,Killer Blade,Blade Attack,Cyclone,Mistral
+Norm Drilling,Connection Map,FW,Fire,158,134,57,53,54,58,60,57,54,Rodeo Clown,Spinning Cut,Dirt Ball,Shine Drive
+Al Chemmy,Connection Map,DF,Fire,138,168,69,68,60,65,64,62,60,Killer Slide,Ghost Pull,Black Magic,Psycho Shot
+Braden Bakewell,Connection Map,FW,Earth,90,125,76,33,39,48,70,40,44,Grenade Shot,Meteor Attack,Patriot Shot,Twin Boost
+Dexter Raleigh,Connection Map,DF,Earth,118,146,46,34,35,59,69,55,60,Horn Train,Bewildered,Mole Fake,Dirt Ball
+Gary Osoto,Connection Map,DF,Wind,103,142,48,60,57,56,71,61,53,Killer Slide,Bewildered,The Wall,Mole Fake
+Spike Clutcher,Connection Map,FW,Wind,116,137,53,53,53,54,60,55,56,Dash Accelerator,Cross Drive,Illusion Ball,Utter Gutsiness Bat
+Carter Nightly,Connection Map,DF,Wood,176,166,68,65,63,61,68,60,63,Whirlwind Twister,Quick Draw,Cyclone,Whirlwind Cut
+Scot Enguard,Connection Map,DF,Earth,195,152,65,60,64,60,60,62,65,Blade Attack,Utter Gutsiness Bat,Bewildered,Rodeo Clown
+Max Hurt,Connection Map,GK,Fire,132,132,45,59,52,60,69,65,63,Killer Blade,Killer Slide,About Face,Counter Strike
+Olly Gammy,Connection Map,MF,Earth,191,108,51,68,50,44,48,69,66,Killer Slide,Breakthrough,Spider Web,Reflect Buster
+Edward Albion,Scouting,GK,Earth,171,132,60,60,69,56,68,62,61,Fireball Knuckle,Tornado Catch,Toughness Block,Wood Chopper
+Stu Born,Scouting,GK,Fire,114,102,60,56,40,48,46,56,52,Fireball Knuckle,Toughness Block,Rocket Kobushi,Counter Strike
+Kevin Doors,Scouting,GK,Wind,173,164,70,66,68,71,62,63,63,Comet Shot,Killer Blade,Shot Pocket,Whirlwind
+Hugh Dyer,Scouting,GK,Earth,77,136,48,56,61,52,70,71,60,Killer Blade,Teleport Shot,Mistral,Reflect Buster
+Marv Errick,Scouting,GK,Fire,129,174,74,71,64,76,43,68,60,Toughness Block,The Wall,Mole Fake,Counter Strike
+Alfie Fine,Scouting,GK,Wood,138,133,66,52,52,69,50,68,57,Pressure Punch,Shot Pocket,Spider Web,Full Power Shield
+Randolf Finn,Scouting,GK,Earth,96,150,66,63,63,56,63,68,63,Fireball Knuckle,Toughness Block,Horn Train,Gigant Wall
+Rex George,Scouting,GK,Wind,189,157,68,68,60,60,62,67,66,Tornado Catch,Quick Draw,Wood Chopper,Cyclone
+Den Hidden,Scouting,GK,Earth,121,153,73,60,64,76,44,79,60,Sumo Stomp,Horn Train,Wood Chopper,Counter Strike
+Trey Hugger,Scouting,GK,Fire,99,142,36,73,60,73,35,28,58,Power Shield,Horn Train,Wood Chopper,Divine Stamp
+Will Noble,Scouting,GK,Wood,134,158,48,48,54,41,52,48,45,Toughness Block,Horn Train,Rocket Kobushi,Full Power Shield
+Joe Nalist,Scouting,GK,Wood,191,142,63,53,55,68,38,68,58,Killer Blade,Shot Pocket,Spider Web,Poison Fog
+Billy Nomates,Scouting,GK,Wood,132,160,76,64,64,77,40,76,65,Fireball Knuckle,Power Shield,Wild Claw,Blazing Knuckle
+Sly O'Hands,Scouting,GK,Wind,158,176,56,72,79,79,45,61,69,Killer Blade,Doppelganger,Whirlwind,Blazing Knuckle
+Ort Omaton,Scouting,GK,Fire,90,156,63,54,61,60,72,70,53,Dash Accelerator,Rocket Kobushi,Heat Tackle,Counter Strike
+Jay Pan,Scouting,GK,Earth,143,115,64,79,48,52,36,52,77,Sumo Stomp,Earthquake,Gigant Wall,Rodeo Clown
+Oscar Petty,Scouting,GK,Fire,129,156,76,71,63,70,44,78,82,Killer Blade,Quick Draw,Shot Pocket,Whirlwind
+Sascha Powder,Scouting,GK,Fire,123,158,51,36,33,60,68,56,60,Pressure Punch,Rocket Kobushi,Spider Web,Mistral
+Jen Quibble,Scouting,GK,Earth,94,144,56,67,40,70,62,67,58,Spinning Cut,Whirlwind,Bamboo Pattern,Counter Strike
+Ace Server,Scouting,GK,Wind,151,168,76,69,63,78,56,77,68,Tornado Catch,Blade Attack,Wood Chopper,Counter Strike
+Shaun Staid,Scouting,GK,Wind,101,154,43,61,53,61,79,77,56,Rodeo Clown,Magic,Rocket Kobushi,Illusion Ball
+Griff Strummer,Scouting,GK,Wind,158,170,60,52,60,60,55,57,57,Tornado Catch,Coil Turn,Mistral,Hurricane Arrows
+Nick Swagg,Scouting,GK,Fire,143,149,68,69,71,64,64,64,60,Tornado Catch,Doppelganger,Whirlwind,About Face
+Les Tarrant,Scouting,GK,Wind,123,118,52,63,40,44,47,53,56,Killer Blade,Wood Chopper,Bamboo Pattern,Blazing Knuckle
+Tim Toppel,Scouting,GK,Wood,176,172,69,65,64,60,64,69,61,Pressure Punch,Shot Pocket,Wood Chopper,Whirlwind
+Boe Tyer,Scouting,GK,Fire,151,149,49,59,65,51,53,63,62,Power Shield,Rodeo Clown,Dirt Ball,Full Power Shield
+Julius Vernon,Scouting,GK,Earth,140,184,77,45,44,76,39,51,48,Wild Claw,Dash Accelerator,Wood Chopper,About Face
+Rainier Welkin,Scouting,GK,Fire,147,154,48,60,68,76,56,61,52,Fireball Knuckle,Toughness Block,Rocket Kobushi,Counter Strike
+Gerry Attrick,Scouting,DF,Earth,96,142,60,65,44,70,62,60,60,Quick Draw,Whirlwind Twister,Blade Attack,Shadow Stitch
+Pascal Blaise,Scouting,DF,Wood,118,142,49,56,60,61,68,45,57,Magic,Spinning Cut,Defence Scan,Breakthrough
+Scot Chopper,Scouting,DF,Wood,132,146,48,28,30,62,70,59,56,Spider Web,Bamboo Pattern,Dash Storm,Shine Drive
+Dan Dandy,Scouting,DF,Wind,154,150,61,43,44,63,68,65,68,Coil Turn,Spinning Cut,Moonsault,Dash Storm
+Beau Fort,Scouting,DF,Wind,145,137,48,48,45,60,68,52,54,Spinning Cut,Illusion Ball,Cyclone,Bewildered
+Jack Frosty,Scouting,DF,Wind,178,166,65,70,64,65,67,60,68,Coil Turn,Magic,Spider Web,Hawk Shot
+Shaun Imago,Scouting,DF,Wind,123,132,42,36,30,55,60,60,60,Coil Turn,Cross Drive,Illusion Ball,Clone Shot
+Sirley Ladyman,Scouting,DF,Wood,167,150,51,31,30,53,68,60,62,Coil Turn,Whirlwind Twister,Cyclone,Whirlwind Cut
+Doug Lee,Scouting,DF,Fire,112,158,44,36,30,55,70,62,57,Sumo Stomp,The Wall,Mole Fake,Divine Stamp
+Scout Messenger,Scouting,DF,Wood,154,156,69,61,56,58,63,56,52,Coil Turn,Dash Accelerator,Whirlwind Cut,Cyclone
+Sam Murray,Scouting,DF,Wind,107,142,67,54,52,69,35,68,59,Shadow Stitch,Poison Fog,Clone Faker,Clone Shot
+Drew Reiner,Scouting,DF,Earth,165,168,66,71,70,66,62,68,63,Coil Turn,Blade Attack,Spider Web,Cross Drive
+Reg Thrift,Scouting,DF,Earth,94,146,45,56,54,63,77,53,60,Coil Turn,Quick Draw,Spider Web,Illusion Ball
+Dan Vega,Scouting,DF,Wood,167,154,66,64,62,60,64,62,68,Ghost Pull,Afterimage,Spider Web,Bamboo Pattern
+Walter Walken,Scouting,DF,Wind,127,128,44,42,48,49,50,51,73,Coil Turn,Monkey Turn,About Face,Back Tornado
+Des Ainer,Scouting,MF,Fire,160,158,71,60,61,63,34,60,59,Sumo Stomp,Earthquake,Bewildered,Dirt Ball
+Bryce Bergman,Scouting,MF,Fire,165,140,45,61,59,60,64,69,60,Dash Accelerator,Breakthrough,Utter Gutsiness Bat,Emperor Penguin No.2
+Tim Bergoods,Scouting,MF,Wind,198,134,51,52,62,52,78,39,62,Bewildered,Zigzag Spark,Poison Fog,Dash Storm
+Holly Cricket,Scouting,MF,Fire,118,156,61,70,48,63,63,67,56,Breakthrough,Fake Ball,Poison Fog,Kung Fu Header
+Grew Driver,Scouting,MF,Wind,165,172,67,64,64,64,68,64,64,Zigzag Spark,Cross Drive,Clone Faker,Twin Boost
+Waite Forrit,Scouting,MF,Earth,165,140,61,55,59,58,59,68,59,Kung Fu Header,Whirlwind Twister,Clone Shot,Divine Stamp
+Garland Gathers,Scouting,MF,Earth,118,124,56,44,52,44,52,61,46,Magic,Teleport Shot,Illusion Ball,Freeze Shot
+Cameron Hameha,Scouting,MF,Wood,129,116,44,49,58,44,46,55,50,Rodeo Clown,Magic,Afterimage,Moonsault
+Bert Neptune,Scouting,MF,Wood,178,178,64,70,64,64,62,61,61,Attack Scan,Defence Scan,Harvest,Freeze Shot
+Ton Nino,Scouting,MF,Wind,151,150,66,60,63,56,55,71,63,Flurry Dash,Zigzag Spark,Blade Attack,Clone Shot
+Phil Occifer,Scouting,MF,Wood,169,176,51,55,65,44,60,61,62,Magic,Black Magic,Ghost Pull,Psycho Shot
+Vinny O'Gaines,Scouting,MF,Wood,158,133,46,61,64,52,52,52,55,Black Magic,Afterimage,Cyclone,Clone Shot
+Bobby Peel,Scouting,MF,Earth,165,146,60,62,55,56,59,52,62,Bewildered,Blade Attack,Clone Faker,Rolling Hell
+Biron Pendexter,Scouting,MF,Wood,112,192,62,68,53,71,63,60,59,Dash Accelerator,Zigzag Spark,Clone Faker,Dash Storm
+Harry Redcastle,Scouting,MF,Wind,121,178,63,60,53,69,52,56,60,Flurry Dash,Zigzag Spark,Wrath Shot,Back Tornado
+Ollie Seeker,Scouting,MF,Earth,112,133,71,60,52,58,52,63,62,Sumo Stomp,Mole Fake,The Wall,Dirt Ball
+Gabriel Shekinah,Scouting,MF,Wind,79,132,62,58,82,60,52,64,56,Whirlwind Twister,Spiral Shot,Whirlwind Cut,Cross Drive
+Rupert Spiers,Scouting,MF,Wind,127,152,55,64,70,70,74,68,63,Flurry Dash,Breakthrough,Utter Gutsiness Bat,Dash Storm
+Daley Switcher,Scouting,MF,Earth,132,176,61,66,63,63,59,60,56,Bewildered,Spinning Cut,Spinning Shot,Dash Storm
+Kay Acker,Scouting,FW,Wind,182,144,58,71,48,60,62,74,60,Phantom Shot,Tiro ripetuto,Clone Faker,Back Tornado
+Dave Altair,Scouting,FW,Wind,213,136,61,63,57,58,53,69,60,Dash Accelerator,Spiral Shot,Patriot Shot,Shine Drive
+Manny Atom,Scouting,FW,Fire,213,148,67,59,54,68,64,61,54,Dash Accelerator,Wrath Shot,Run Ball Run,Zigzag Spark
+Gene Bottle,Scouting,FW,Wind,83,138,62,60,40,68,52,69,52,Doppelganger,Spinning Shot,Afterimage,Divine Arrows
+Ashley Dale,Scouting,FW,Wood,187,160,55,60,78,61,70,61,68,Rolling Kick,Phantom Shot,Afterimage,Utter Gutsiness Bat
+Ike Doerflinger,Scouting,FW,Wood,138,152,53,60,58,61,52,56,52,Spinning Shot,Utter Gutsiness Bat,About Face,Boost Glider
+Ben Evolent,Scouting,FW,Wind,169,154,68,52,60,60,52,59,52,Snake Shot,Phantom Shot,Meteor Attack,Run Ball Run
+Ashley Fay,Scouting,FW,Wind,123,100,62,56,40,51,40,57,52,Snake Shot,Wrath Shot,Illusion Ball,Back Tornado
+Mo Hawkes,Scouting,FW,Fire,140,141,60,69,47,63,60,62,60,Sumo Stomp,Mole Fake,Earthquake,Dirt Ball
+Eggbert Heading,Scouting,FW,Wood,217,140,68,53,58,71,38,76,62,Attack Scan,Defence Scan,Rolling Kick,Psycho Shot
+Larry Helps,Scouting,FW,Wood,77,158,46,54,57,59,60,54,55,Phantom Shot,Zigzag Spark,Clone Shot,Death Zone
+Monty Hillary,Scouting,FW,Earth,88,146,42,56,59,63,65,64,52,Phantom Shot,Attack Scan,Defence Scan,Twin Boost
+Jimmy Mach,Scouting,FW,Wind,158,149,52,61,60,58,79,76,50,Grenade Shot,Afterimage,Cyclone,Back Tornado
+Pat Maclean,Scouting,FW,Wind,167,168,63,64,62,69,60,60,68,Rolling Kick,Dynamite Shot,Bewildered,Freeze Shot
+Bill Moony,Scouting,FW,Earth,103,152,79,53,56,60,64,61,52,Toughness Block,Freeze Shot,Illusion Ball,Bamboo Pattern
+Will Racer,Scouting,FW,Wood,171,158,56,61,56,60,60,54,60,Snake Shot,Tarzan Kick,Dirt Ball,Reflect Buster
+Char Shumaker,Scouting,FW,Earth,171,132,60,60,59,57,57,59,55,Dynamite Shot,Bewildered,Dirt Ball,Mole Fake
+Scott Springer,Scouting,FW,Wind,96,134,78,59,63,53,52,60,54,Phantom Shot,Dynamite Shot,Clone Shot,Rolling Hell
+Derek Terr,Scouting,FW,Fire,110,138,50,32,31,61,77,58,59,Doppelganger,Phantom Shot,Psycho Shot,Blade Attack
+George Winters,Scouting,FW,Wood,140,180,44,72,76,68,79,70,73,Rodeo Clown,Utter Gutsiness Bat,Clone Faker,Clone Shot
+Evan Yielding,Scouting,FW,Wood,160,160,53,46,50,60,76,65,64,Psycho Shot,Illusion Ball,Twin Boost,Death Zone
+Darrel Jeeling,Scouting,GK,Wood,173,150,47,60,68,46,58,59,53,Grenade Shot,Shine Drive,Shot Pocket,Full Power Shield
+Paul Peabody,Scouting,DF,Wind,217,192,65,76,62,69,64,73,74,Rodeo Clown,About Face,God Hand,Majin The Hand
+Miles Ryan,Scouting,DF,Wind,171,174,59,48,46,69,76,64,65,Flurry Dash,Zigzag Spark,Whirlwind Cut,Cyclone
+Duncan Jump,Scouting,DF,Fire,209,120,40,48,48,40,43,76,48,Dash Accelerator,Horn Train,Heat Tackle,Dash Storm
+Saul Dowd,Scouting,DF,Earth,171,174,52,56,58,54,61,53,63,Sumo Stomp,Ghost Pull,Poison Fog,Earthquake
+Chester Horse jr.,Scouting,MF,Wood,158,129,55,72,71,58,63,59,59,Bewildered,Monkey Turn,Utter Gutsiness Bat,Clone Faker
+Nathin Gaunt,Scouting,MF,Earth,74,140,40,56,52,61,76,52,61,Bewildered,Monkey Turn,Spider Web,Moonsault
+Rory Boomer,Scouting,MF,Earth,171,156,71,62,57,56,60,65,79,Killer Slide,Heat Tackle,About Face,Reflect Buster
+Erik Eagle,Scouting,MF,Wood,154,197,79,60,76,64,63,53,71,Spinning Shot,Spinning Cut,Illusion Ball,The Phoenix
+Cash Barganier,Scouting,FW,Fire,167,156,43,35,38,52,76,37,61,Comet Shot,Dynamite Shot,Patriot Shot,Shine Drive
+Saggy,Scouting,FW,Wood,195,165,77,71,60,70,64,70,67,Dash Accelerator,Attack Scan,Patriot Shot,Reflect Buster
+Shadow Cimmerian,Scouting,FW,Wood,193,176,60,74,68,73,63,60,64,Shadow Stitch,Dark Tornado,Doppelganger,Death Zone
