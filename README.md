@@ -1,16 +1,29 @@
 # Algoritmia: análisis de jugadores en C
 
-Proyecto de la asignatura de Algoritmia (grado en Ingeniería Informática). Un
-programa en C que lee una base de jugadores en CSV (`IE1.csv`, con
-estadísticas al estilo Inazuma Eleven) y clasifica jugadores por posición
-usando **k-vecinos más cercanos (KNN)**, con una variante que aplica la
-**edición de Wilson** para depurar el conjunto de entrenamiento.
+Programa en **C puro** que implementa desde cero varios algoritmos clásicos
+de análisis de datos para clasificar jugadores (dataset de estilo Inazuma
+Eleven, en CSV) según su posición a partir de sus estadísticas.
 
-Incluye además, como estructuras propias:
+## Qué hace
 
-- **Normalización** de estadísticas (`normalizar.c`).
-- **Búsqueda de máximos y mínimos** (`maxMin.c`).
-- **Cola de enteros** hecha a mano (`colaEnteros.c`).
+- **Clasificación por K-vecinos más cercanos (KNN)**: dado un jugador nuevo,
+  busca los K jugadores más parecidos del dataset (por distancia entre sus
+  estadísticas) y predice su posición por mayoría de votos.
+- **Búsqueda de la K óptima**: prueba distintos valores de K y calcula el
+  porcentaje de acierto de cada uno para encontrar el mejor.
+- **Edición de Wilson**: variante que primero "limpia" el dataset de
+  entrenamiento eliminando los ejemplos mal clasificados, para mejorar la
+  precisión del KNN posterior.
+- **Normalización de estadísticas**: para que ningún atributo (p. ej. la
+  velocidad) pese más que otro solo por tener una escala mayor.
+- **Cola de enteros implementada a mano**, usada como estructura de apoyo
+  en el procesado de datos.
+
+Todo el flujo se maneja desde un menú interactivo por terminal.
+
+## Lenguaje y stack
+
+C (sin dependencias externas más allá de la librería estándar y `libm`).
 
 ## Compilar y ejecutar
 
@@ -26,13 +39,3 @@ gcc jugador.o maxMin.o normalizar.o colaEnteros.o main.o menu.c -o menu -lm
 ```
 
 (o usa el `makefile` incluido con `make menu` si tienes `make` instalado).
-
-El menú deja elegir entre predecir la clase de un jugador con KNN normal o
-con Wilson, para una K fija o buscando la K óptima.
-
-## Estado
-
-Funciona: compilado y probado (todas las opciones del menú cargan
-`IE1.csv` y responden correctamente). Es trabajo académico, no mantenido
-activamente — quedan bugs conocidos sin resolver por el propio autor
-original de la práctica.
