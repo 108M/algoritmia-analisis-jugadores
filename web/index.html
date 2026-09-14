@@ -1,0 +1,79 @@
+<!doctype html>
+<html lang="es">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>KNN Player Analysis — Terminal</title>
+    <link rel="stylesheet" href="https://unpkg.com/@xterm/xterm/css/xterm.css" />
+    <style>
+      :root { color-scheme: dark; }
+      body {
+        margin: 0;
+        background: #0b0b0c;
+        color: #eee;
+        font-family: 'Space Grotesk', system-ui, sans-serif;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        min-height: 100vh;
+        padding: 24px 16px 40px;
+        box-sizing: border-box;
+      }
+      header {
+        max-width: 760px;
+        width: 100%;
+        margin-bottom: 20px;
+      }
+      header a {
+        color: #eee;
+        text-decoration: none;
+        border-bottom: 2px solid #eee;
+      }
+      h1 {
+        font-size: clamp(1.25rem, 3vw, 1.75rem);
+        margin: 12px 0 6px;
+        text-transform: uppercase;
+        letter-spacing: -0.02em;
+      }
+      p {
+        line-height: 1.5;
+        color: #bbb;
+        margin: 0 0 6px;
+      }
+      #terminal-wrap {
+        width: 100%;
+        max-width: 760px;
+        border: 2px solid #eee;
+        padding: 8px;
+        background: #000;
+      }
+      #terminal {
+        width: 100%;
+        height: 60vh;
+      }
+      #status {
+        max-width: 760px;
+        width: 100%;
+        margin-top: 10px;
+        font-size: 0.85rem;
+        color: #888;
+      }
+    </style>
+  </head>
+  <body>
+    <header>
+      <a href="javascript:history.back()">← Volver al proyecto</a>
+      <h1>KNN Player Analysis — terminal real en el navegador</h1>
+      <p>
+        El mismo binario en C de la universidad, compilado a WebAssembly y ejecutándose
+        de verdad aquí — sin servidor, sin simulación. Escribe en la terminal como en cualquier consola.
+      </p>
+      <p>Dataset: <code>IE1.csv</code> (incluido). Usa el menú numérico para clasificar jugadores por posición (KNN).</p>
+    </header>
+    <div id="terminal-wrap">
+      <div id="terminal"></div>
+    </div>
+    <div id="status">Cargando WebAssembly…</div>
+    <script type="module" src="/src/main.ts"></script>
+  </body>
+</html>
